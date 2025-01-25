@@ -18,5 +18,8 @@
         "MOST 110-2410-H-002-210 from Ministry of Science and Technology, Taiwan",
         "NSC 112-2410-H-002 -071 from Ministry of Science and Technology, Taiwan"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005880.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005880.v1.0.0",
+    "EthicsApprovals": [
+        "All participants gave informed written consent to the protocol of the study, which was approved by the Institutional Review Board of National Taiwan University (202007HM031). Our research was performed in accordance with relevant guidelines/regulations and with the Declaration of Helsinki."
+    ]
 }
